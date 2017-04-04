@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-# Hello World
+# Hey World
 
 echo 1, 2, 3
